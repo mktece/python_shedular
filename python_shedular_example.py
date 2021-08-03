@@ -17,7 +17,7 @@ def work():
 
 
 def bedtime():
-    print("It is bed time go rest")
+    print("It is bed time go and take rest")
 
 
 def kikde():
